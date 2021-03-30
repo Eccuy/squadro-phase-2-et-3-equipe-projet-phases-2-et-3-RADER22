@@ -10,7 +10,7 @@ Classes:
     * SquadroInterface - Classe parent dont vous devez hériter pour créer votre classe Squadro.
 """
 from copy import deepcopy
-# Test
+# Test un deux
 class SquadroInterface:
     def __init__(self, joueur1, joueur2):
         """Constructeur de la classe Squadro.
